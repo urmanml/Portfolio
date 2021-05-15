@@ -1,22 +1,20 @@
 # Major Industry Projects:
 ![](https://github.com/urmanml/Portfolio/blob/portfolio_images/fintech_small.jpg)
 ![](https://github.com/urmanml/Portfolio/blob/portfolio_images/instant%20loan_small.jpg)
-
 #### Digital Loan Approval Rejection [project link](https://www.maybank2u.com.my/maybank2u/malaysia/en/business/financing/working_capital/business/sme_clean_loan_financing.page)
-(company size: 10B+, industry: banking)
+company size: 10B+, industry: banking
 #### Digital Loan Limit Setting [project link](https://www.maybank2u.com.my/maybank2u/malaysia/en/business/financing/working_capital/business/sme_clean_loan_financing.page)
-(company size: 10B+, industry: banking)
+company size: 10B+, industry: banking
 #### Property Price Forecasting for Mortgage Backed Loans
-(company size: 10B+, industry: banking)
+company size: 10B+, industry: banking
 #### Loan Segmentation and Tagging for Securitization
-(company size: 10B+, industry: banking)
+company size: 10B+, industry: banking
 #### Portfolio Optimization of Loans across various Dimensions
-(company size: 10B+, industry: banking)
-
+company size: 10B+, industry: banking
 #### Propensity to Buy Model  
-(company size: 10B+, industry: data center)
+company size: 10B+, industry: data center
 #### Product Category need based Recommendation
-(company size: 10B+, industry: data center)
+company size: 10B+, industry: data center
 
 
 # Basic academic projects:
