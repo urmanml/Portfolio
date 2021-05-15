@@ -3,16 +3,16 @@
 ![](https://github.com/urmanml/Portfolio/blob/portfolio_images/fintech_small.jpg)
 ![](https://github.com/urmanml/Portfolio/blob/portfolio_images/instant%20loan_small.jpg)
 
-- [**Digital Loan Approval Rejection**](https://www.maybank2u.com.my/maybank2u/malaysia/en/business/financing/working_capital/business/sme_clean_loan_financing.page)
-(Company Size: 10B+, Industry: Banking)
-- [Digital **Loan Limit Setting**](https://www.maybank2u.com.my/maybank2u/malaysia/en/business/financing/working_capital/business/sme_clean_loan_financing.page)
-(Company Size: 10B+, Industry: Banking)
-- [**Property Price Forecasting** for Mortgage Backed Loans]
-(Company Size: 10B+, Industry: Banking)
-- [Loan **Segmentation** and Tagging for Securitization]
-(Company Size: 10B+, Industry: Banking)
-- [**Portfolio Optimization** of Loans across various Dimensions]
-(Company Size: 10B+, Industry: Banking)
+- Digital Loan Approval Rejection [Project link](https://www.maybank2u.com.my/maybank2u/malaysia/en/business/financing/working_capital/business/sme_clean_loan_financing.page)
+(company size: 10B+, industry: banking)
+- Digital Loan Limit Setting [Project link](https://www.maybank2u.com.my/maybank2u/malaysia/en/business/financing/working_capital/business/sme_clean_loan_financing.page)
+(company size: 10B+, industry: banking)
+- Property Price Forecasting for Mortgage Backed Loans
+(company size: 10B+, industry: banking)
+- Loan Segmentation and Tagging for Securitization
+(company size: 10B+, industry: banking)
+- Portfolio Optimization of Loans across various Dimensions
+(company size: 10B+, industry: banking)
 
 ### Marketing Data Science 
 - [Propensity to Buy Model]  (Company Size: 10B+, Industry: Data Center)
@@ -27,13 +27,14 @@
 - [Pyspark: Data Analysis and Machine Learning on PySpark]
 
 ## Advanced projects:
-- [Time series forecasting algorithms](https://github.com/urmanml/Samples/tree/time-series)
-- [Sample Machine Learning Project](https://github.com/urmanml/Samples/tree/classification-project)
-- [Employee Churn Prediction]
-- [Sales monthly data analysis]
+- Time series forecasting algorithms [Link](https://github.com/urmanml/Samples/tree/time-series)
+- Sample Machine Learning Project [Link](https://github.com/urmanml/Samples/tree/classification-project)
+- Employee Churn Prediction
+- Sales monthly data analysis
+- Forecasting engine for a retail store
 
 ## Research Projects:
-- [Profit Maximizing Family of Classifier on loan data]
+- Profit Maximizing Family of Classifier on loan data
 - Time Series Algorithm Comparison
 
 ARIMA
