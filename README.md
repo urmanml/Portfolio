@@ -1,9 +1,15 @@
 ## Major Industry Projects:
 ### Banking and Financial Services
+
+![alt text](https://github.com/urmanml/Portfolio/blob/portfolio_images/fintech_small.jpg)
+
+
 - [**Digital Loan Approval Rejection**](https://www.maybank2u.com.my/maybank2u/malaysia/en/business/financing/working_capital/business/sme_clean_loan_financing.page)
 (Company Size: 10B+, Industry: Banking)
 - [Digital **Loan Limit Setting**](https://www.maybank2u.com.my/maybank2u/malaysia/en/business/financing/working_capital/business/sme_clean_loan_financing.page)
 (Company Size: 10B+, Industry: Banking)
+![alt text](https://github.com/urmanml/Portfolio/blob/portfolio_images/instant%20loan_small.jpg)
+
 - [**Property Price Forecasting** for Mortgage Backed Loans]
 (Company Size: 10B+, Industry: Banking)
 - [Loan **Segmentation** and Tagging for Securitization]
@@ -48,6 +54,7 @@ High Level machine learning abstraction layer based on top of MLR package
 collection of very useful functions that can make a data scientist's productivity higher
 
 ## [Statistical Hypothesis Testing and Data Analysis](https://github.com/urmanml/codebase/blob/master/my_utilities/my_statistical_tests.py)
+![alt text](https://github.com/urmanml/Portfolio/blob/portfolio_images/hypothesis%20testing_small.png)
 - T test
 - Z test
 - Chi Square test, Kramer's V
