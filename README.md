@@ -1,26 +1,44 @@
 # Major Industry Projects:
 ![](https://github.com/urmanml/Portfolio/blob/portfolio_images/fintech_small.jpg)
 ![](https://github.com/urmanml/Portfolio/blob/portfolio_images/instant%20loan_small.jpg)
-#### Digital Loan Approval Rejection 
+### Digital Lending 
 [project link](https://www.maybank2u.com.my/maybank2u/malaysia/en/business/financing/working_capital/business/sme_clean_loan_financing.page)\
 company size: 10B+, industry: banking \
 **Business Problem:** Fully machine learning driven loan approval/rejection decision for small SME loans \
-**Business Impact:** 20-30% Loan growth/ 20-30% FTE saving\
+**Business Impact:** 20-30% Loan growth/ 20-30% FTE saving \
 **Methodology:** XGBoost, Neural Network, Clustering
 
 
-#### Digital Loan Limit Setting 
+### Digital Loan Limit Setting 
 [project link](https://www.maybank2u.com.my/maybank2u/malaysia/en/business/financing/working_capital/business/sme_clean_loan_financing.page)\
+company size: 10B+, industry: banking \
+**Business Problem:** Decide optimal loan amount real-time based on future income of customer\
+**Business Impact:** 20-30% Loan growth\
+**Methodology:** Deep Learning, Time Series Analysis
+
+### Property Price Forecasting for Mortgage Backed Loans
 company size: 10B+, industry: banking
-#### Property Price Forecasting for Mortgage Backed Loans
-company size: 10B+, industry: banking
-#### Loan Segmentation and Tagging for Securitization
-company size: 10B+, industry: banking
-#### Portfolio Optimization of Loans across various Dimensions
-company size: 10B+, industry: banking
-#### Propensity to Buy Model  
+
+company size: 10B+, industry: banking \
+**Business Problem:** Forecasting property price to keep risk of mortgage loans under control\
+**Business Impact:** up to 100% loan recovery\
+**Methodology:** Time series forecasting using ARIMA
+
+### Loan Segmentation and Tagging for Securitization
+company size: 10B+, industry: banking \
+**Business Problem:** Analytical tool for risk analysts: segregate risky loans at any given time incoming data \
+**Business Impact:** NPA reduction to possibly less than 1%\
+**Methodology:** K-proto Clustering
+
+### Portfolio Optimization of Loans across various Dimensions
+company size: 10B+, industry: banking \
+**Business Problem:** Optimization of Bank's loan portfolio across dimensions such as product type and industry\
+**Business Impact:** approx. 16 basis point return improvement\
+**Methodology:** Markowitz mean variance Optimization
+
+### Propensity to Buy Model  
 company size: 10B+, industry: data center
-#### Product Category need based Recommendation
+### Product Category need based Recommendation
 company size: 10B+, industry: data center
 
 
