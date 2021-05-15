@@ -1,9 +1,9 @@
-# Overeview
+# List of Projects
 
 ## Major Industry Projects:
 ### Banking and Financial Serivices
-- [Digital Loan Approval Rejection](https://www.maybank2u.com.my/maybank2u/malaysia/en/business/financing/working_capital/business/sme_clean_loan_financing.page)
-- [Digital Loan Limit Setting](https://www.maybank2u.com.my/maybank2u/malaysia/en/business/financing/working_capital/business/sme_clean_loan_financing.page)
+- [**Digital Loan Approval Rejection**](https://www.maybank2u.com.my/maybank2u/malaysia/en/business/financing/working_capital/business/sme_clean_loan_financing.page)
+- [Digital **Loan Limit Setting**](https://www.maybank2u.com.my/maybank2u/malaysia/en/business/financing/working_capital/business/sme_clean_loan_financing.page)
 - [**Property Price Forecasting** for Mortgage Backed Loans]
 - [Loan **Segmentation** and Tagging for Securitization]
 - [**Portfolio Optimization** of Loans across various Dimensions]
@@ -28,9 +28,20 @@
 
 ## Research Projects:
 - [Profit Maximizing Family of Classifier on loan data]
+- Time Series Algorithm Comparison
+
+ARIMA
+ETS
+LSTM
+GRU
+Facebook Prophet
+VARMAX
+
 
 ## Machine Learning Packages:
 - [EasyMLR](https://github.com/urmanml/easyMLR)
+- [my_utilities](https://github.com/urmanml/codebase/tree/master/my_utilities)
+collection of very useful functions that can make a data scientist's productivity higher
 
 ## Statistical Hypothesis Testing and Data Analysis
 - T test
@@ -38,4 +49,11 @@
 - Chi Square test, Kramer's V
 - Correlation analysis
 - Kruskal Wallis H-test
+
+## Visualization 
+- Barcharts
+- Piecharts
+- Distribution charts
+- Boxplots
+- Tabular Summary
 
