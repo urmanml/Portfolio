@@ -1,11 +1,12 @@
 ## Major Industry Projects:
 ### Banking and Financial Services
 ![](https://github.com/urmanml/Portfolio/blob/portfolio_images/fintech_small.jpg)
+![](https://github.com/urmanml/Portfolio/blob/portfolio_images/instant%20loan_small.jpg)
+
 - [**Digital Loan Approval Rejection**](https://www.maybank2u.com.my/maybank2u/malaysia/en/business/financing/working_capital/business/sme_clean_loan_financing.page)
 (Company Size: 10B+, Industry: Banking)
 - [Digital **Loan Limit Setting**](https://www.maybank2u.com.my/maybank2u/malaysia/en/business/financing/working_capital/business/sme_clean_loan_financing.page)
 (Company Size: 10B+, Industry: Banking)
-![](https://github.com/urmanml/Portfolio/blob/portfolio_images/instant%20loan_small.jpg)
 - [**Property Price Forecasting** for Mortgage Backed Loans]
 (Company Size: 10B+, Industry: Banking)
 - [Loan **Segmentation** and Tagging for Securitization]
