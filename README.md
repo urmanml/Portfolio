@@ -1,7 +1,7 @@
 # List of Projects
 
 ## Major Industry Projects:
-### Banking and Financial Serivices
+### Banking and Financial Services
 - [**Digital Loan Approval Rejection**](https://www.maybank2u.com.my/maybank2u/malaysia/en/business/financing/working_capital/business/sme_clean_loan_financing.page)
 - [Digital **Loan Limit Setting**](https://www.maybank2u.com.my/maybank2u/malaysia/en/business/financing/working_capital/business/sme_clean_loan_financing.page)
 - [**Property Price Forecasting** for Mortgage Backed Loans]
