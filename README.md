@@ -1,4 +1,3 @@
-# Key Projects
 ## Major Industry Projects:
 ![](https://github.com/urmanml/Portfolio/blob/portfolio_images/fintech_small.jpg)
 ![](https://github.com/urmanml/Portfolio/blob/portfolio_images/instant%20loan_small.jpg)
