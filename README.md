@@ -1,5 +1,3 @@
-# List of Projects
-
 ## Major Industry Projects:
 ### Banking and Financial Services
 - [**Digital Loan Approval Rejection**](https://www.maybank2u.com.my/maybank2u/malaysia/en/business/financing/working_capital/business/sme_clean_loan_financing.page)
