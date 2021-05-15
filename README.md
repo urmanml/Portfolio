@@ -1,9 +1,11 @@
 # Major Industry Projects:
 ![](https://github.com/urmanml/Portfolio/blob/portfolio_images/fintech_small.jpg)
 ![](https://github.com/urmanml/Portfolio/blob/portfolio_images/instant%20loan_small.jpg)
-#### Digital Loan Approval Rejection [project link](https://www.maybank2u.com.my/maybank2u/malaysia/en/business/financing/working_capital/business/sme_clean_loan_financing.page)
+#### Digital Loan Approval Rejection 
+[project link](https://www.maybank2u.com.my/maybank2u/malaysia/en/business/financing/working_capital/business/sme_clean_loan_financing.page)\
 company size: 10B+, industry: banking
-#### Digital Loan Limit Setting [project link](https://www.maybank2u.com.my/maybank2u/malaysia/en/business/financing/working_capital/business/sme_clean_loan_financing.page)
+#### Digital Loan Limit Setting 
+[project link](https://www.maybank2u.com.my/maybank2u/malaysia/en/business/financing/working_capital/business/sme_clean_loan_financing.page)\
 company size: 10B+, industry: banking
 #### Property Price Forecasting for Mortgage Backed Loans
 company size: 10B+, industry: banking
