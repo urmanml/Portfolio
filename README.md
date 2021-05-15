@@ -1,5 +1,5 @@
-# Major Industry Projects:
-## Banking and Financial Services
+# Key Projects
+## Major Industry Projects:
 ![](https://github.com/urmanml/Portfolio/blob/portfolio_images/fintech_small.jpg)
 ![](https://github.com/urmanml/Portfolio/blob/portfolio_images/instant%20loan_small.jpg)
 
@@ -14,29 +14,28 @@
 #### Portfolio Optimization of Loans across various Dimensions
 (company size: 10B+, industry: banking)
 
-### Marketing Data Science 
-#### [Propensity to Buy Model]  
-(Company Size: 10B+, Industry: Data Center)
-#### [Product Category need based Recommendation] 
-(Company Size: 10B+, Industry: Data Center)
+#### Propensity to Buy Model  
+(company size: 10B+, industry: data center)
+#### Product Category need based Recommendation
+(company size: 10B+, industry: data center)
 
 
 ## Basic academic projects:
-#### [Linear regression]
-#### [Logistic regression]
-#### [Clustering and distance metrics]
-#### [Multiple Linear Regression]
-#### [Pyspark: Data Analysis and Machine Learning on PySpark]
+#### Linear regression
+#### Logistic regression
+#### Clustering and distance metrics
+#### Multiple Linear Regression
+#### Pyspark: Data Analysis and Machine Learning on PySpark
 
 ## Advanced projects:
-#### Sample Machine Learning Project [Link](https://github.com/urmanml/Samples/tree/classification-project)
+#### Sample Machine Learning Project [project link](https://github.com/urmanml/Samples/tree/classification-project)
 #### Employee Churn Prediction
 #### Sales monthly data analysis
 #### Forecasting engine for a retail store
 
 ## Research Projects:
 #### Profit Maximizing Family of Classifier on loan data
-#### Time series forecasting algorithm comparison [Link](https://github.com/urmanml/Samples/tree/time-series)
+#### Time series forecasting algorithm comparison [project link](https://github.com/urmanml/Samples/tree/time-series)
 
 - ARIMA
 - ETS
@@ -47,12 +46,13 @@
 
 
 ## Machine Learning Packages:
-#### [EasyMLR: ](https://github.com/urmanml/easyMLR)
+#### EasyMLR package in R: [project link](https://github.com/urmanml/easyMLR)
 High Level machine learning abstraction layer based on top of MLR package
-#### [my_utilities: ](https://github.com/urmanml/codebase/tree/master/my_utilities)
+#### my_utilities package in Python: [project link](https://github.com/urmanml/codebase/tree/master/my_utilities)
 collection of very useful functions that can make a data scientist's productivity higher
 
-## [Statistical Hypothesis Testing and Data Analysis](https://github.com/urmanml/codebase/blob/master/my_utilities/my_statistical_tests.py)
+
+## Statistical Hypothesis Testing and Data Analysis: [project link](https://github.com/urmanml/codebase/blob/master/my_utilities/my_statistical_tests.py)
 ![](https://github.com/urmanml/Portfolio/blob/portfolio_images/hypothesis%20testing_small.png)
 - T test
 - Z test
@@ -61,7 +61,7 @@ collection of very useful functions that can make a data scientist's productivit
 - Kruskal Wallis H-test
 - Descriptive Statistics
 
-## Visualization 
+## Visualizations 
 - Barcharts
 - Piecharts
 - Distribution charts
