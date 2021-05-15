@@ -43,12 +43,13 @@ VARMAX
 - [my_utilities](https://github.com/urmanml/codebase/tree/master/my_utilities)
 collection of very useful functions that can make a data scientist's productivity higher
 
-## Statistical Hypothesis Testing and Data Analysis
+## [Statistical Hypothesis Testing and Data Analysis](https://github.com/urmanml/codebase/blob/master/my_utilities/my_statistical_tests.py)
 - T test
 - Z test
 - Chi Square test, Kramer's V
 - Correlation analysis
 - Kruskal Wallis H-test
+- Descriptive Statistics
 
 ## Visualization 
 - Barcharts
