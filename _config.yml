@@ -1,6 +1,6 @@
 title: Urmanpreet Singh
-logo: /assets/img/logo.png
-description: Data Scientist
-show_downloads: true
+logo: https://github.com/urmanml/Portfolio/blob/main/profile%20square%20(2).jpg
+description: Data Scientist Portfolio
+show_downloads: false
 google_analytics:
 theme: jekyll-theme-cayman
