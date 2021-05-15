@@ -21,38 +21,43 @@ company size: 10B+, industry: data center
 
 # Basic academic projects:
 #### Linear regression
-[project link]()
+[project link](https://github.com/urmanml/Portfolio/blob/main/academic_projects/linear_regression_and_logistic_regression.ipynb)
 #### Logistic regression
-[project link]()
+[project link](https://github.com/urmanml/Portfolio/blob/main/academic_projects/linear_regression_and_logistic_regression.ipynb)
 #### Clustering and distance metrics
-[project link]()
+[project link](https://github.com/urmanml/Portfolio/blob/main/academic_projects/clustering_distance_metrics_PCA_SVD.ipynb)
 #### Multiple Linear Regression
-[project link]()
+[project link](https://github.com/urmanml/Portfolio/blob/main/academic_projects/multiple_regression.ipynb)
 #### Pyspark: Data Analysis and Machine Learning on PySpark
-[project link]()
+[project link](https://github.com/urmanml/Portfolio/blob/main/academic_projects/PySpark_data_exploration_supervised_learning_and_supervised_learning.ipynb)
 
 # Advanced projects:
-#### Sample Machine Learning Project 
+#### Sample Machine Learning Project: Medical-cost Prediction Model
+In this project, the medical spend of a citizen is being estimated based on various attributes
 [project link](https://github.com/urmanml/Samples/tree/classification-project)
+- Part 1: Data Preprocessing [link](https://github.com/urmanml/Portfolio/blob/main/advanced_projects/Part_1_data%20preprocessing.ipynb)
+- Part 2: EDA [link](https://github.com/urmanml/Portfolio/blob/main/advanced_projects/Part_2_EDA.ipynb)
+- Part 3: Model fitting and Model Explainability [link](https://github.com/urmanml/Portfolio/blob/main/advanced_projects/Part_3_modelling.ipynb)
 #### Employee Churn Prediction
-[project link]()
+[project link](https://github.com/urmanml/Portfolio/blob/main/advanced_projects/employee%20turnover.ipynb)
+Predict probability of an employee leaving the company based on various internal data sources. Also generate the key attributes determining attrition.
 #### Sales monthly data analysis
-[project link]()
+[project link](https://github.com/urmanml/Portfolio/blob/main/advanced_projects/Sales_monthly_data_analysis_report.ipynb)
 #### Forecasting engine for a retail store
 [project link]()
 
 # Research Projects:
 #### Profit Maximizing Family of Classifier on loan data
-[project link]()
+[project link](https://github.com/urmanml/Portfolio/blob/main/research_projects/profit_maximizing_algorithms_on_loans_dataset.ipynb)
 #### Time series forecasting algorithm comparison 
 [project link](https://github.com/urmanml/Samples/tree/time-series)
 
-- ARIMA [project link]()
-- ETS [project link]()
-- LSTM [project link]()
-- GRU [project link]()
-- Facebook Prophet[project link]()
-- VARMAX[project link]()
+- ARIMA [project link](https://github.com/urmanml/Portfolio/blob/main/forecasting/ARIMA.ipynb)
+- ETS [project link](https://github.com/urmanml/Portfolio/blob/main/forecasting/holt%20winters.ipynb)
+- LSTM [project link](https://github.com/urmanml/Portfolio/blob/main/forecasting/lstm.ipynb)
+- GRU [project link](https://github.com/urmanml/Portfolio/blob/main/forecasting/GRU.ipynb)
+- Facebook Prophet[project link](https://github.com/urmanml/Portfolio/blob/main/forecasting/timeseries_prophet.ipynb)
+- RNN[project link](https://github.com/urmanml/Portfolio/blob/main/forecasting/RNN.ipynb)
 
 
 # Machine Learning Packages:
